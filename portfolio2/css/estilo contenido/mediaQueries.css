@@ -28,3 +28,20 @@
    }
 
 }
+
+
+@media screen and (max-width: 480px) {
+     body{
+          margin: 0;
+          font-size: 100%;  
+     }
+
+     .titulo{
+          width: 100%;
+      }
+      
+    .contenido{
+          display:grid;
+          grid-area: 1 / 1 / 5 / 5;
+    }
+} 
