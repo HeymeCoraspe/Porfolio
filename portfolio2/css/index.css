@@ -1,0 +1,23 @@
+body{
+    background-color: #041b37;
+    font-family: 'Nova Square', sans-serif;
+    line-height: 1.1;
+}
+
+h1{
+    text-align: center;
+    background-image:linear-gradient(#cd2b64,#bd2093);
+    color: #041b37;
+    font-family: 'Bungee', sans-serif;
+    font-size: 400%;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    -webkit-text-stroke:  3px #680c50;
+    text-shadow: 5px 5px 0px #e160d7;
+}
+
+.textos{
+    font-size: 180%;
+    color: #bd2093;
+    padding: 2vh;
+}

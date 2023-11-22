@@ -1,0 +1,27 @@
+.presentación{
+    margin-top: 2%;
+    font-size: 190%;
+    padding-left: 4%;
+    color: #e160d7;
+    box-sizing: border-box;
+    display: block;
+    font-family: 'Nova Square', sans-serif;
+    white-space: nowrap;
+    border-right: 2px solid #e160d7;
+    width: 92%; 
+    animation: typing 4s steps(80), 
+    blink .5s infinite step-end alternate;
+    overflow: hidden;
+}
+
+@keyframes typing {
+    from { width: 0}
+}
+
+@keyframes blink{
+   50% {border-color: transparent;} 
+}
+
+.ocultar-presentacion{
+    display: none;
+}

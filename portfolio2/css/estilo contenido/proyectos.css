@@ -1,0 +1,27 @@
+.proyectos { 
+    grid-area: 1 / 4 / 4 / 6;
+    border: 3px solid #6350c5;
+    background-color: #300056;
+    margin-right: 5VH;
+    margin-left: 5VH;
+    border-radius: 5vh;
+    text-align: center;
+ }
+
+.proyectos:hover{
+    background-color: #680c50;
+    color: #300056; 
+}
+
+.carousel-img{
+    height: 100%;
+    width: 100%;
+}
+
+.carousel-caption{
+    font-size: 150%;
+    color: white;
+    font-weight: 700;
+    background-color: #041b37;
+    opacity: .60;
+}

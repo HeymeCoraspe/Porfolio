@@ -1,0 +1,21 @@
+.skills { 
+    grid-area: 4 / 1 / 6 / 4;
+    border: 3px solid #6350c5;
+    background-color: #300056;
+    margin-right: 5VH;
+    margin-left: 5VH;
+    border-radius: 5vh;
+    text-align: center;
+}
+
+.skills:hover{
+    background-color: #680c50;
+    color: #300056; 
+}
+
+.iconos{
+    display: flex;
+    align-items: center;
+    margin-top: 5vh;
+    justify-content: space-around;
+}

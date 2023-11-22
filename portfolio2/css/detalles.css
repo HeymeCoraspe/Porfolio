@@ -1,0 +1,29 @@
+h4{
+    text-align: center;
+}
+.estudios{
+    display: flex;  
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.card{
+    background-color: #300056;
+    color: #be2b5f;
+    align-items: center;
+    border: 3px solid #be2b5f;
+    margin: 1%;
+}
+
+.card-text{
+    padding-bottom: 5%;
+}
+
+.certificados-btn{
+    background-color: #680c50;
+    border-radius: 5px;
+    color: #e160d7;
+    padding: 3%;
+    box-shadow: none;
+    border: 1px solid #be2b5f;
+}

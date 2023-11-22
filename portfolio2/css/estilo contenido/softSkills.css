@@ -1,0 +1,16 @@
+.softSkills { 
+    grid-area: 4 / 4 / 6 / 6;
+    border: 3px solid #6350c5;
+    background-color: #300056;
+    margin-right: 5VH;
+    margin-left: 5VH;
+    border-radius: 5vh;
+    text-align: center;
+    font-size: 80%;
+}
+
+.softSkills:hover{
+    background-color: #680c50;
+    color: #300056; 
+}
+

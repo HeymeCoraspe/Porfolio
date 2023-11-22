@@ -1,0 +1,30 @@
+@media screen and (max-width: 768px) {
+    body{
+        margin: 0;
+        font-size: 100%;
+    }
+
+    .titulo{
+        width: 100%;
+    }
+
+   .presentación, .redes{
+        visibility: hidden;
+   }
+
+   .contenido{
+        margin-top: -6%;
+        font-size: 60%;  
+   }
+
+   .formacion, .meDefino, .meGusta, .quiero{
+        margin-top: 4%;
+        font-size: 1%;
+   }
+
+   .img-icono{
+    visibility: hidden;
+    
+   }
+
+}

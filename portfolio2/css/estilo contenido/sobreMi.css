@@ -1,0 +1,21 @@
+.sobreMi { 
+    grid-area: 1 / 1 / 4 / 4;
+    border: 3px solid #6350c5;
+    background-color: #300056;
+    margin-top: 5vh; 
+    margin-left: 5vh;
+    border-radius: 5vh;
+    text-align: center;
+}
+
+.sobreMi:hover{
+    background-color: #680c50;
+    color: #300056; 
+}
+
+.redes{
+   display: flex; 
+   justify-content: center;
+   gap: 3%;
+   margin-top: 5%;
+}

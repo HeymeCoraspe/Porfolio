@@ -1,0 +1,14 @@
+.soyYo{ 
+    grid-area: 6 / 1 / 8 / 2;
+    color: #e160d7;
+    text-align: center;
+    line-height: 1.5;
+    border: 3px solid #6350c5;
+    background-color: #300056;
+    border-radius: 5vh;
+    text-align: center;
+    font-size: 200%;
+    padding-top: 15%;
+}
+
+  

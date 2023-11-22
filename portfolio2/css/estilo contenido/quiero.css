@@ -1,0 +1,12 @@
+.quiero { 
+    grid-area: 6 / 5 / 8 / 6;
+    border: 3px solid #6350c5;
+    background-color: #300056;
+    margin-right: 5VH;
+    margin-left: 5VH;
+    border-radius: 5vh;
+    text-align: center;
+    color: #bd2093;
+    padding: 8%;
+    font-size: 125%;
+}
